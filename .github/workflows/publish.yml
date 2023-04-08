@@ -19,6 +19,6 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: 92a05401a5cae05c2a7c154ba929f56a
           projectName: yvdv
-          directory: YOUR_ASSET_DIRECTORY
+          directory: site/ 
           # Optional: Enable this if you want to have GitHub Deployments triggered
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
