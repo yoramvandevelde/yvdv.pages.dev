@@ -1,5 +1,5 @@
 /*
   Report-To: {"group":"default","max_age":31536000,"endpoints":[{"url":"https://sifft.report-uri.com/a/d/g"}],"include_subdomains":true
-  Content-Security-Policy-Report-Only: default-src 'self' 'unsafe-inline'; connect-src stats.g.doubleclick.net www.google-analytics.com; font-src 'self' fonts.gstatic.com; img-src 'self'; script-src-attr 'unsafe-inline'; script-src-elem 'self' 'unsafe-inline' code.jquery.com www.google-analytics.com; script-src 'unsafe-eval'; style-src-attr 'unsafe-inline'; style-src-elem; report-uri https://sifft.report-uri.com/r/d/csp/wizard
+  Content-Security-Policy-Report-Only: default-src 'self' 'unsafe-inline'; connect-src stats.g.doubleclick.net www.google-analytics.com; font-src 'self' fonts.gstatic.com; img-src 'self'; script-src-attr 'unsafe-inline'; script-src-elem 'self' 'unsafe-inline' code.jquery.com www.google-analytics.com; script-src 'unsafe-eval'; style-src-attr 'unsafe-inline'; style-src-elem; report-uri https://sifft.report-uri.com/r/d/csp/wizard}
   NEL: {"report_to":"default","max_age":31536000,"include_subdomains":true}
   
